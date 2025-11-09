@@ -24,7 +24,7 @@ Ziel war es, von der Datenbereinigung über Visualisierung bis hin zur Präsenta
 | Datei | Beschreibung |
 |-------|--------------|
 | `projektanalyse3.ipynb` | Jupyter Notebook mit der kompletten Analyse, Visualisierungen & Code |
-| `README.md` | Projektbeschreibung (du liest sie gerade 😊) |
+| `README.md` | Projektbeschreibung  |
 | *(Optional)* PowerPoint Präsentation | **entfernt**, da Dateigröße zu groß für GitHub war |
 
 ---
